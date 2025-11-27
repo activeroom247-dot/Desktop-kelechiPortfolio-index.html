@@ -1,2 +1,2 @@
-kelechiPortfolio
-My personal portfolio showcasing my web development projects.
+kahkaPortfolio.
+I build things for the internet 
